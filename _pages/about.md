@@ -23,3 +23,5 @@ I am currently a master student in [Graduate School of AI](https://gsai.kaist.ac
 I am interested in all the things related to intelligent movement of the robot arm including reinforcement learning, sim-to-real, robot hardware design, and perception algorithm.
 
 Previously, I obtained my Bachelor's Degree double majoring in mechanical engineering and computer science engineering from [Seoul National University](https://snu.ac.kr/).
+
+**[<font size="5">cv</font>](../assets/pdf/2024CV_kimjaehyung.pdf)**
