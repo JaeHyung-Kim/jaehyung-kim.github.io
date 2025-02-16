@@ -18,10 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a master student in [Graduate School of AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). I am in [Intelligent mobile-manipulation (IM^2) lab](https://imsquared.github.io/) directed by [Beomjoon Kim](https://beomjoonkim.github.io/).
+I earned my master's degree from the [Graduate School of AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). During my studies, I was a member of the [Humanoid Generalization (HuGe) lab](https://www.hugelab.org/) directed by [Beomjoon Kim](https://beomjoonkim.github.io/).
 
-I am interested in all the things related to intelligent movement of the robot arm including reinforcement learning, sim-to-real, robot hardware design, and perception algorithm.
+I am interested in all the things related to intelligent and dynamic movement of the robot arm including reinforcement learning, sim-to-real, robot hardware design, and perception algorithm.
 
 Previously, I obtained my Bachelor's Degree double majoring in mechanical engineering and computer science engineering from [Seoul National University](https://snu.ac.kr/).
 
-**[<font size="5">cv</font>](../assets/pdf/2024CV_kimjaehyung.pdf)**
+**[<font size="5">cv</font>](../assets/pdf/KJH_CV_2025.pdf)**
