@@ -24,4 +24,4 @@ I am interested in all the things related to intelligent and dynamic movement of
 
 Previously, I obtained my Bachelor's Degree double majoring in mechanical engineering and computer science engineering from [Seoul National University](https://snu.ac.kr/).
 
-**[<font size="5">cv</font>](../assets/pdf/KJH_CV_250417.pdf)**
+**[<font size="5">cv</font>](../assets/pdf/KJH_CV_250417-2.pdf)**
