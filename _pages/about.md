@@ -19,8 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-### Research Engineer | Robot Manipulation & Learning
-
 I am a Research Engineer at [**Holiday Robotics**](https://holiday-robotics.com/), where I focus on developing intelligent robot arm manipulation. My work sits at the intersection of Sim-to-Real transfer, controlling QDD-based arm, Reinforcement Learning, and perception.
 
 I earned my M.S. in from the [Graduate School of AI](https://gsai.kaist.ac.kr/) at KAIST, where I was a member of the [Humanoid Generalization (HuGe) Lab](https://www.hugelab.org/) advised by Beomjoon Kim. Previously, I completed a double major in Mechanical Engineering and Computer Science Engineering at [Seoul National University](https://snu.ac.kr/).
