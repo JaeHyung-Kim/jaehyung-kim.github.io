@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: kimjaehyung@kaist.ac.kr
+subtitle: jaehyung.kim@holiday-robotics.com
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building #9</p>
-    <p>85, Hoegi-ro</p>
+    <p>Holiday Robotics</p>
+    <p>4th floor, 823-Building</p>
+    <p>70, Nonhyeon-ro 85-gil</p>
     <p>Seoul, Korea</p>
 
 news: true # includes a list of news items
@@ -18,10 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I earned my master's degree from the [Graduate School of AI](https://gsai.kaist.ac.kr/) at [KAIST](https://www.kaist.ac.kr/en/). During my studies, I was a member of the [Humanoid Generalization (HuGe) lab](https://www.hugelab.org/) directed by [Beomjoon Kim](https://beomjoonkim.github.io/).
+Research Engineer | Robot Manipulation & Learning
 
-I am interested in all the things related to intelligent and dynamic movement of the robot arm including reinforcement learning, sim-to-real, robot hardware design, and perception algorithm.
+Research Engineer currently at Holiday Robotics, specializing in intelligent robot arm manipulation. 
+I am a Research Engineer at **Holiday Robotics**, where I focus on developing intelligent robot arm manipulation. My work sits at the intersection of Sim-to-Real transfer, controlling QDD-based arm, Reinforcement Learning, and perception.
 
-Previously, I obtained my Bachelor's Degree double majoring in mechanical engineering and computer science engineering from [Seoul National University](https://snu.ac.kr/).
+I earned my M.S. in from the [Graduate School of AI](https://gsai.kaist.ac.kr/) at **KAIST**, where I was a member of the [Humanoid Generalization (HuGe) Lab](https://www.hugelab.org/) advised by Beomjoon Kim. Previously, I completed a double major in **Mechanical Engineering** and **Computer Science Engineering** at [Seoul National University](https://snu.ac.kr/).
+
+I am driven by the challenge of creating dynamic, fluid robot movements that bridge the gap between simulation and the physical world.
 
 **[<font size="5">cv</font>](../assets/pdf/KJH_CV_250417-2.pdf)**
